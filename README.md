@@ -22,30 +22,37 @@ Aspiring Computer Engineer</a>
 - **Software Development & Project Leadership (UE Game Engine, C++ Scripting)**
   - [Unreal Engine Game — Scrum Master & Lead Developer](https://canva.link/f5d5cebjy4950rf)
 
+
 <h2>🏆 Certifications</h2>
 
 <table>
   <tr>
-    <td align="center" width="50%">
-      <a href="https://www.credly.com/badges/1809d068-a3e3-4a6d-8f67-7fedcf3b8f7b/public_url">
-        <img src="YOUR_CREDLY_BADGE_IMAGE_URL" width="110" alt="IT Specialist Java"/>
-      </a>
-      <br/>
+    <td align="center" width="50%" valign="middle">
+      <img src="images/pearson-logo.png" width="110" alt="Pearson logo"/>
+      <br/><br/>
       <strong>IT Specialist – Java</strong>
       <br/>
       <sub>Pearson Education</sub>
-    </td>
-    <td align="center" width="50%">
-      <a href="images/utd-ai-certificate.png">
-        <img src="images/utd-ai-certificate.png" width="240" alt="UTD AI Internship Certificate"/>
+      <br/><br/>
+      <a href="https://www.credly.com/badges/1809d068-a3e3-4a6d-8f67-7fedcf3b8f7b/public_url">
+        View Verified Credential ↗
       </a>
-      <br/>
+    </td>
+
+    <td align="center" width="50%" valign="middle">
+      <img src="images/utd-logo.png" width="110" alt="UT Dallas logo"/>
+      <br/><br/>
       <strong>Deep-Dive AI Internship</strong>
       <br/>
       <sub>University of Texas at Dallas</sub>
+      <br/><br/>
+      <a href="images/utd-ai-certificate.png">
+        View Certificate ↗
+      </a>
     </td>
   </tr>
 </table>
+
 
 <h2 style="color: #6A5ACD;">🤝 Connect with me:</h2>
 
