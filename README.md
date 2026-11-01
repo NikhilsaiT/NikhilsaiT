@@ -24,21 +24,12 @@ Aspiring Embedded Systems Engineer</a>
 
 <h2 style="color: #6A5ACD;">🤝 Connect with me:</h2>
 
-<a href="https://linkedin.com/in/nikhilsai-tanguturi">
-  <img align="left" alt="LinkedIn" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
+## 🤝 Connect with me:
 
-<a href="https://github.com/NikhilsaiT">
-  <img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-
-<a href="mailto:nikhilsai_tanguturi@tamu.edu">
-  <img align="left" alt="Email" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
-
-<a href="https://www.instagram.com/nikhilsai_tan/">
-  <img align="left" alt="Instagram" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nikhilsai-tanguturi)
+[![GitHub](https://img.shields.io/badge/GitHub-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NikhilsaiT)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nikhilsai_tanguturi@tamu.edu)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nikhilsai_tan/)
 
 <br/>
 <br/>
