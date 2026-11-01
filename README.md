@@ -20,7 +20,7 @@
   - [SkyVault Shingles — Carbon-Capturing Roofing Design](https://youtu.be/G241m7uNrEw?si=lbAgm8zlxBqCX1IW)
 
 - <b>Software Development & Project Leadership</b>
-  - [Unreal Engine Game — Scrum Master & Lead Developer](YOUR_SCRUM_LINK)
+  - [Unreal Engine Game — Scrum Master & Lead Developer](https://canva.link/f5d5cebjy4950rf)
 
 <h2>🤝 Connect with me:</h2>
 
