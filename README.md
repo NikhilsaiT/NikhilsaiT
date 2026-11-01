@@ -12,7 +12,7 @@
   - [UTD AI Deep Dive — Gesture Recognition](YOUR_UTD_AI_LINK)
 
 - <b>Robotics & Embedded Systems</b>
-  - [Coyotronics FRC 8816 — Robotics Programming](YOUR_COYOTRONICS_LINK)
+  - [Coyotronics FRC 8816 — Robotics Programming](https://github.com/Coyotronics/YAGSLdriveCode2026)
 
 <h2>💡 Technical Projects & Innovation:</h2>
 
