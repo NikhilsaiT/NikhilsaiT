@@ -1,7 +1,7 @@
-# Hi, I'm Nikhil! 👋
+<h1>Hi, I'm Nikhil! 👋</h1>
 
-<a href="https://github.com/NikhilsaiT">Computer Engineering Student</a>,  
-<a href="https://linkedin.com/in/nikhilsai-tanguturi">Aspiring Embedded Systems Engineer</a>
+<h2>Computer Engineering Student</a>,  
+Aspiring Embedded Systems Engineer</a>
 
 <h2>⚙️ Engineering Projects:</h2>
 
