@@ -26,7 +26,7 @@ Aspiring Computer Engineer</a>
 ## 🏆 Certifications
 
 <p align="center">
-  <img src="images/pearson-logo.jpg" width="110" alt="Pearson logo"/>
+  <img src="images/pearson-logo.jpg" width="150" alt="Pearson logo"/>
 </p>
 
 <p align="center">
