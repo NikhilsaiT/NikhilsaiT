@@ -24,8 +24,6 @@ Aspiring Embedded Systems Engineer</a>
 
 <h2 style="color: #6A5ACD;">🤝 Connect with me:</h2>
 
-## 🤝 Connect with me:
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nikhilsai-tanguturi)
 [![GitHub](https://img.shields.io/badge/GitHub-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NikhilsaiT)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ntanguturi2008@gmail.com)
