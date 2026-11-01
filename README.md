@@ -6,7 +6,7 @@
 <h2>⚙️ Engineering Projects:</h2>
 
 - <b>Autonomous Systems & Aerospace Engineering</b>
-  - [Autonomous Payload Delivery UAS (RWDC)(https://drive.google.com/file/d/19sy2pwD7jGUPfoc3jR43QuWDPfdulb-H/view?usp=sharing)
+  - [Autonomous Payload Delivery UAS (RWDC)](https://drive.google.com/file/d/19sy2pwD7jGUPfoc3jR43QuWDPfdulb-H/view?usp=sharing)
 
 - <b>Artificial Intelligence & Machine Learning</b>
   - [UTD AI Deep Dive — Gesture Recognition](YOUR_UTD_AI_LINK)
