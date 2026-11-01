@@ -5,7 +5,7 @@ Aspiring Computer Engineer</a>
 
 <h2>⚙️ Engineering Projects:</h2>
 
-- **Autonomous Systems & Aerospace Engineering**
+- **Autonomous Systems & Aerospace Engineering (UAS Engineering Notebook)**
   - [Autonomous Payload Delivery UAS (RWDC)](https://drive.google.com/file/d/19sy2pwD7jGUPfoc3jR43QuWDPfdulb-H/view?usp=sharing)
 
 - **Artificial Intelligence & Machine Learning (Python PyTorch)**
