@@ -22,6 +22,31 @@ Aspiring Computer Engineer</a>
 - **Software Development & Project Leadership (UE Game Engine, C++ Scripting)**
   - [Unreal Engine Game — Scrum Master & Lead Developer](https://canva.link/f5d5cebjy4950rf)
 
+<h2>🏆 Certifications</h2>
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://www.credly.com/badges/1809d068-a3e3-4a6d-8f67-7fedcf3b8f7b/public_url">
+        <img src="YOUR_CREDLY_BADGE_IMAGE_URL" width="110" alt="IT Specialist Java"/>
+      </a>
+      <br/>
+      <strong>IT Specialist – Java</strong>
+      <br/>
+      <sub>Pearson Education</sub>
+    </td>
+    <td align="center" width="50%">
+      <a href="images/utd-ai-certificate.png">
+        <img src="images/utd-ai-certificate.png" width="240" alt="UTD AI Internship Certificate"/>
+      </a>
+      <br/>
+      <strong>Deep-Dive AI Internship</strong>
+      <br/>
+      <sub>University of Texas at Dallas</sub>
+    </td>
+  </tr>
+</table>
+
 <h2 style="color: #6A5ACD;">🤝 Connect with me:</h2>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nikhilsai-tanguturi)
