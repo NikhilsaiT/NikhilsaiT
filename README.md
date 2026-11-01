@@ -17,7 +17,7 @@
 <h2>💡 Technical Projects & Innovation:</h2>
 
 - <b>Sustainable Engineering & Innovation</b>
-  - [SkyVault — Carbon-Capturing Shingles](YOUR_SKYVAULT_LINK)
+  - [SkyVault — Carbon-Capturing Shingles](https://youtu.be/G241m7uNrEw?si=lbAgm8zlxBqCX1IW)
 
 - <b>Software Development & Project Leadership</b>
   - [Unreal Engine Game — Scrum Master & Lead Developer](YOUR_SCRUM_LINK)
