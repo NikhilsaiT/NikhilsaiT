@@ -1,39 +1,43 @@
-<h1>Hi, I'm Nikhil! 👋 <br/>
-<a href="https://github.com/YOUR_GITHUB_USERNAME">Computer Engineering Student</a>,
+# Hi, I'm Nikhil! 👋
+
+<a href="https://github.com/NikhilsaiT">Computer Engineering Student</a>,  
 <a href="https://linkedin.com/in/nikhilsai-tanguturi">Aspiring Embedded Systems Engineer</a>
-</h1>
 
 <h2>⚙️ Engineering Projects:</h2>
 
-- <b>Autonomous Systems & Aerospace Engineering</b>
+- **Autonomous Systems & Aerospace Engineering**
   - [Autonomous Payload Delivery UAS (RWDC)](https://drive.google.com/file/d/19sy2pwD7jGUPfoc3jR43QuWDPfdulb-H/view?usp=sharing)
 
-- <b>Artificial Intelligence & Machine Learning</b>
+- **Artificial Intelligence & Machine Learning**
   - [UTD AI Deep Dive — Gesture Recognition](YOUR_UTD_AI_LINK)
 
-- <b>Robotics & Embedded Systems</b>
+- **Robotics & Embedded Systems**
   - [Coyotronics FRC 8816 — Robotics Programming](https://github.com/Coyotronics/YAGSLdriveCode2026)
 
 <h2>💡 Technical Projects & Innovation:</h2>
 
-- <b>Sustainable Engineering & Innovation</b>
+- **Sustainable Engineering & Innovation**
   - [SkyVault Shingles — Carbon-Capturing Roofing Design](https://youtu.be/G241m7uNrEw?si=lbAgm8zlxBqCX1IW)
 
-- <b>Software Development & Project Leadership</b>
+- **Software Development & Project Leadership**
   - [Unreal Engine Game — Scrum Master & Lead Developer](https://canva.link/f5d5cebjy4950rf)
 
-<h2>🤝 Connect with me:</h2>
+<h2 style="color: #6A5ACD;">🤝 Connect with me:</h2>
 
 <a href="https://linkedin.com/in/nikhilsai-tanguturi">
-  <img align="left" alt="Nikhil | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="LinkedIn" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img align="left" alt="Nikhil | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+<a href="https://github.com/NikhilsaiT">
+  <img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 
 <a href="mailto:nikhilsai_tanguturi@tamu.edu">
-  <img align="left" alt="Nikhil | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+  <img align="left" alt="Email" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
+
+<a href="https://www.instagram.com/nikhilsai_tan/">
+  <img align="left" alt="Instagram" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
 <br/>
