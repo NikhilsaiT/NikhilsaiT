@@ -11,7 +11,7 @@ Aspiring Embedded Systems Engineer</a>
 - **Artificial Intelligence & Machine Learning**
   - [UTD AI Deep Dive — Gesture Recognition](YOUR_UTD_AI_LINK)
 
-- **Coytoronics 8816 (FRC Robotics)**
+- **Robotics Programming and Embedded Systems**
   - [Coyotronics FRC 8816 — Robotics Programming](https://github.com/Coyotronics/YAGSLdriveCode2026)
 
 <h2>💡 Technical Projects & Innovation:</h2>
