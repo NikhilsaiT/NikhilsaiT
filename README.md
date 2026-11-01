@@ -1,7 +1,7 @@
 <h1>Hi, I'm Nikhil! 👋</h1>
 
-<h2>Computer Engineering Student</a>,  
-Aspiring Embedded Systems Engineer</a>
+<h2>Engineering Student at Texas A&M University</a>,  
+Aspiring Computer Engineer</a>
 
 <h2>⚙️ Engineering Projects:</h2>
 
