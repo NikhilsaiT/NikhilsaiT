@@ -8,7 +8,7 @@ Aspiring Computer Engineer</a>
 - **Autonomous Systems & Aerospace Engineering (UAS Engineering Notebook)**
   - [Autonomous Payload Delivery UAS (RWDC)](https://drive.google.com/file/d/19sy2pwD7jGUPfoc3jR43QuWDPfdulb-H/view?usp=sharing)
 
-- **Artificial Intelligence & Machine Learning (Python PyTorch)**
+- **Artificial Intelligence & Machine Learning (Python PyTorch, Pandas, Keras)**
   - [UTD AI Deep Dive — Gesture Recognition](YOUR_UTD_AI_LINK)
 
 - **Robotics Programming and Embedded Systems (Java WPIlib)**
