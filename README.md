@@ -9,7 +9,7 @@ Aspiring Computer Engineer</a>
   - [Autonomous Payload Delivery UAS (RWDC)](https://drive.google.com/file/d/19sy2pwD7jGUPfoc3jR43QuWDPfdulb-H/view?usp=sharing)
 
 - **Artificial Intelligence & Machine Learning (Python PyTorch, Pandas, Keras)**
-  - [UTD AI Deep Dive — Gesture Recognition](YOUR_UTD_AI_LINK)
+  - [UTD AI Deep Dive — Gesture Recognition](https://github.com/AdvaithNair07282008/PAAHANA)
 
 - **Robotics Programming and Embedded Systems (Java WPIlib)**
   - [Coyotronics FRC 8816 — Robotics Programming](https://github.com/Coyotronics/YAGSLdriveCode2026)
