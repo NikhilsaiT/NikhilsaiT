@@ -41,7 +41,7 @@ Aspiring Computer Engineer</a>
     <td align="center" width="50%" valign="middle">
       <img src="images/utd-logo.jpg" height="100" alt="UT Dallas logo"/>
       <br/><br/>
-      <strong>Deep-Dive AI Internship</strong>
+      <strong>AI Research Internship</strong>
       <br/>
       <sub>University of Texas at Dallas</sub>
       <br/><br/>
