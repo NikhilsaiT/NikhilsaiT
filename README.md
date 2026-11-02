@@ -29,7 +29,7 @@ Aspiring Computer Engineer</a>
   <tr>
     <td align="center" width="50%" valign="middle">
       <div>
-        <img src="images/pearson-logo-balanced.jpg" height="100" alt="Pearson logo"/>
+        <img src="images/pearson-logo.jpg" height="100" alt="Pearson logo"/>
       </div>
       <br/>
       <strong>IT Specialist – Java</strong>
@@ -39,7 +39,7 @@ Aspiring Computer Engineer</a>
       <a href="https://www.credly.com/badges/1809d068-a3e3-4a6d-8f67-7fedcf3b8f7b/public_url">View Verified Credential ↗</a>
     </td>
     <td align="center" width="50%" valign="middle">
-      <img src="images/utd-logo-balanced.jpg" height="100" alt="UT Dallas logo"/>
+      <img src="images/utd-logo.jpg" height="100" alt="UT Dallas logo"/>
       <br/><br/>
       <strong>Deep-Dive AI Internship</strong>
       <br/>
