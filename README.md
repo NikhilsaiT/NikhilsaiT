@@ -45,7 +45,7 @@ Aspiring Computer Engineer</a>
       <br/>
       <sub>University of Texas at Dallas</sub>
       <br/><br/>
-      <a href="images/utd-ai-certificate.png">View Certificate ↗</a>
+      <a href="images/utd-certificate.png">View Certificate ↗</a>
     </td>
   </tr>
 </table>
